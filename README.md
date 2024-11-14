@@ -1,2 +1,1 @@
-# PrepCourseJD
-Repositorio de prueba
+este proyecto es una prueba y clonarlo desde github
